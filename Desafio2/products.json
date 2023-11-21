@@ -1,5 +1,14 @@
 [
 	{
+		"title": "Escuadra",
+		"description": "Escuadra de 2.5mm",
+		"price": 123.45,
+		"thumbnail": "Sin imagen",
+		"code": "abc123",
+		"stock": 25,
+		"id": 1
+	},
+	{
 		"title": "Calculadora",
 		"description": "Calculadora de 2.5mm",
 		"price": 123.45,

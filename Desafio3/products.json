@@ -1,0 +1,103 @@
+[
+	{
+		"title": "Escuadra",
+		"description": "Escuadra de 2.5mm",
+		"price": 123.45,
+		"thumbnail": "Sin imagen",
+		"code": "abc123",
+		"stock": 25,
+		"id": 1
+	},
+	{
+		"title": "Calculadora",
+		"description": "Calculadora de 2.5mm",
+		"price": 123.45,
+		"thumbnail": "Sin imagen",
+		"code": "abc123",
+		"stock": 25,
+		"id": 2
+	},
+    {
+        "title": "Globo Terraqueo",
+        "description": "Globo terraqueo de 2.5mm",
+        "price": 123.45,
+        "thumbnail": "Sin imagen",
+        "code": "abc123",
+        "stock": 25,
+        "id": 3
+    },
+    {
+        "title": "Cafetera",
+        "description": "Cafetera de 2.5mm",
+        "price": 123.45,
+        "thumbnail": "Sin imagen",
+        "code": "abc123",
+        "stock": 25,
+        "id": 4
+    },
+    {
+        "title": "Reloj",
+        "description": "Reloj de 2.5mm",
+        "price": 123.45,
+        "thumbnail": "Sin imagen",
+        "code": "abc123",
+        "stock": 25,
+        "id": 5
+    },
+    {
+        "title": "Vaso",
+        "description": "Vaso de 2.5mm",
+        "price": 123.45,
+        "thumbnail": "Sin imagen",
+        "code": "abc123",
+        "stock": 25,
+        "id": 6
+    },
+    {
+        "title": "Taza",
+        "description": "Taza de 2.5mm",
+        "price": 123.45,
+        "thumbnail": "Sin imagen",
+        "code": "abc123",
+        "stock": 25,
+        "id": 7
+    },
+    {
+        "title": "Pluma",
+        "description": "Pluma de 2.5mm",
+        "price": 123.45,
+        "thumbnail": "Sin imagen",
+        "code": "abc123",
+        "stock": 25,
+        "id": 8
+    },
+    {
+        "title": "Cuchara",
+        "description": "Cuchara de 2.5mm",
+        "price": 123.45,
+        "thumbnail": "Sin imagen",
+        "code": "abc123",
+        "stock": 25,
+        "id": 9
+    },
+    {
+        "title": "Cuchillo",
+        "description": "Cuchillo de 2.5mm",
+        "price": 123.45,
+        "thumbnail": "Sin imagen",
+        "code": "abc123",
+        "stock": 25,
+        "id": 10
+    },
+    {
+        "title": "Mesa",
+        "description": "Mesa de 2.5mm",
+        "price": 123.45,
+        "thumbnail": "Sin imagen",
+        "code": "abc123",
+        "stock": 25,
+        "id": 11
+    }
+]
+    
+   
