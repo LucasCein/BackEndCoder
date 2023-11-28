@@ -1,0 +1,35 @@
+[
+	{
+		"title": "Laptop Gamer",
+		"description": "Laptop de alta gama para juegos con gráficos intensivos",
+		"price": 1500,
+		"thumbnail": "url_to_thumbnail_image",
+		"code": "LTG-001",
+		"stock": 10,
+		"id": 1,
+		"status": true,
+		"category": "Electrónica"
+	},
+	{
+		"title": "Smartphone 5G Actualizado",
+		"description": "Nueva descripción con características actualizadas.",
+		"price": 1000,
+		"thumbnail": "url_to_new_thumbnail_image",
+		"code": "SP-002",
+		"stock": 25,
+		"id": 2,
+		"status": true,
+		"category": "Móviles"
+	},
+	{
+		"title": "Auriculares Inalámbricos",
+		"description": "Auriculares inalámbricos con cancelación de ruido y 24 horas de batería.",
+		"price": 200,
+		"thumbnail": "url_to_image_headphones",
+		"code": "HP-003",
+		"stock": 15,
+		"id": 3,
+		"status": true,
+		"category": "Accesorios"
+	}
+]
