@@ -1,0 +1,18 @@
+<div>
+  <h1>Lista de Productos</h1>
+  <ul>
+    {{#each products.docs}}
+    <li>{{this.title}} - ${{this.price}}</li>
+    <button id={{this.id}}>Agregar al Carrito</button>
+    {{/each}}
+  </ul>
+  <div>
+    {{#if products.hasPrevPage}}
+    <a href="/products?page={{products.prevPage}}&limit={{products.limit}}&sort={{sort}}">Anterior</a>
+    {{/if}}
+    {{#if products.hasNextPage}}
+    <a href="/products?page={{products.nextPage}}&limit={{products.limit}}&sort={{sort}}">Siguiente</a>
+    {{/if}}
+  </div>
+</div>
+<script src="./js/home.js"></script>

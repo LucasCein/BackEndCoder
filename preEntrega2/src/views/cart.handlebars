@@ -1,0 +1,6 @@
+<h1>Lista de Productos en el Carrito</h1>
+<ul>
+  {{#each cart.products}} <!-- Itera directamente sobre 'cart.products' -->
+    <li>{{this.product.title}} - ${{this.product.price}}</li>
+  {{/each}}
+</ul>
